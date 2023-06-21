@@ -1,0 +1,98 @@
+[
+    {
+        "id":35,
+        "url":"./img/pick_img9.png",
+        "name":"경량 테이퍼드 여성 카고팬츠",
+        "price":"149,000원"
+    },
+        {
+        "id":36,
+        "url":"./img/pick_img10.png",
+        "name":"프레시벤트 우븐 트레이닝 포켓 반팔티셔츠",
+        "price":"89,000원"
+    },
+        {
+        "id":37,
+        "url":"./img/pick_img11.png",
+        "name":"프레시벤트 우븐 트레이닝 카고 쇼츠",
+        "price":"109,000원"
+    },
+        {
+        "id":38,
+        "url":"./img/pick_img12.png",
+        "name":"우븐 하이브리드 트레이닝 반팔 맨투맨",
+        "price":"79,000원"
+    },
+        {
+        "id":39,
+        "url":"./img/pick_img13.png",
+        "name":"우븐 하이브리드 트레이닝 쇼츠",
+        "price":"89,000원"
+    },
+        {
+        "id":40,
+        "url":"./img/pick_img14.png",
+        "name":"모노키니 여성 수영복",
+        "price":"99,000원"
+    },
+        {
+        "id":41,
+        "url":"./img/pick_img15.png",
+        "name":"반팔 여성 크롭 워터탑",
+        "price":"79,000원"
+    },
+        {
+        "id":42,
+        "url":"./img/pick_img16.png",
+        "name":"슬리브리스 여성 크롭 워터탑",
+        "price":"69,000원"
+    },
+{
+        "id":43,
+        "url":"./img/pick_img17.png",
+        "name":"베이직 여성 워터 브라탑",
+        "price":"69,000원"
+    },
+    {
+        "id":44,
+        "url":"./img/pick_img18.png",
+        "name":"디 러너",
+        "price":"139,000원"
+    },
+    {
+        "id":45,
+        "url":"./img/pick_img19.png",
+        "name":"2IN1 워터 레깅스 남성 보드숏",
+        "price":"109,000원"
+    },
+    {
+        "id":46,
+        "url":"./img/pick_img20.png",
+        "name":"다이버 키즈",
+        "price":"59,000원"
+    },
+    {
+        "id":47,
+        "url":"./img/pick_img21.png",
+        "name":"캠퍼스 플랫",
+        "price":"129,000원"
+    },
+    {
+        "id":48,
+        "url":"./img/pick_img22.png",
+        "name":"핫썸머 백그래픽 워터반팔티",
+        "price":"79,000원"
+    },
+    {
+        "id":49,
+        "url":"./img/pick_img23.png",
+        "name":"메인크루 비치 원포인트 여성 보드숏",
+        "price":"99,000원"
+    },
+    {
+        "id":50,
+        "url":"./img/pick_img24.png",
+        "name":"포켓 오버핏 반팔티셔츠",
+        "price":"59,000원"
+    }
+]
